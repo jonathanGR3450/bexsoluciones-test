@@ -1,8 +1,6 @@
 # BexSoluciones
 ## _Technical test_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Proyecto api desarrollado con patrones de diseño como Test Driven Design y Domain Driven Design, esto con el fin de hacer un codigo limpio y escalable en el tiempo.
